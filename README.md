@@ -10,7 +10,7 @@ AI/ML Engineer skilled in building and deploying end-to-end machine learning and
 🧠 **Core Skills:** Machine Learning · Deep Learning · NLP/LLMs · RAG · Computer Vision · Statistical Modeling  
 🛠️ **Languages & Libraries:** Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · CatBoost · XGBoost  
 🔗 **GenAI & Frameworks:** LangChain · LangGraph · Transformers · Prompt Engineering  
-🚀 **MLOps & Deployment:** Docker · MLflow · DVC · DAGsHub · Flask · REST APIs · CI/CD · GitHub Actions  
+🚀 **MLOps & Deployment:** Docker ·Kubernetes(Basic) · MLflow · DVC · DAGsHub · Flask · REST APIs · CI/CD · GitHub Actions  
 ☁️ **Cloud:** AWS (ECS, ECR, Fargate) · Azure (Container Registry, Web Apps)  
 📊 **Visualization:** Streamlit · Plotly · Matplotlib · Seaborn · Dashboard Development  
 
