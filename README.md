@@ -1,20 +1,17 @@
-## Hi there 👋
+### Hi, I'm Harshal 👋
 
-My name is Harshal, and I'm interested in Python, Data Science, Machine Learning, Natural Language Processing, Gen AI.
-- 🌱 I’m currently learning Generative AI.
-- 💬 Ask me about AI ,ML, DL(LSTM, U-Net, Transformer, CNN, RNN), NLP(Preprocessing(TF-IDF, Word2Vec, AVG. Word2Vec) LSTM)
+AI/ML Engineer skilled in building and deploying end-to-end machine learning and Generative AI solutions on structured and unstructured data.
 
-<!--
-**harshal3558/harshal3558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Experience**
+- **AI/ML Mentor** @ AiAdventure *(May 2026 – Present)* — Mentoring students in Python, ML, Deep Learning, and end-to-end model building
+- **AI/ML Engineer Intern** @ AiAdventure *(Nov 2025 – May 2026)* — Built and deployed containerized ML applications on Azure, automated training pipelines, and CI/CD workflows
+- **Data Science Intern** @ Ineuron Intelligence Pvt. Ltd. *(May 2024 – Feb 2025)* — Built financial ML models for credit risk, volatility prediction, and AML use cases
 
-Here are some ideas to get you started:
+🧠 **Core Skills:** Machine Learning · Deep Learning · NLP/LLMs · RAG · Computer Vision · Statistical Modeling  
+🛠️ **Languages & Libraries:** Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · CatBoost · XGBoost  
+🔗 **GenAI & Frameworks:** LangChain · LangGraph · Transformers · Prompt Engineering  
+🚀 **MLOps & Deployment:** Docker · MLflow · DVC · DAGsHub · Flask · REST APIs · CI/CD · GitHub Actions  
+☁️ **Cloud:** AWS (ECS, ECR, Fargate) · Azure (Container Registry, Web Apps)  
+📊 **Visualization:** Streamlit · Plotly · Matplotlib · Seaborn · Dashboard Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Generative AI.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about AI ,ML, DL(LSTM, RNN, U-Net, CNN, Transformer), NLP(Preprocessing(TF-IDF, Word2Vec, AVG. Word2Vec) ,LLM)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me:** harshal3558@gmail.com | [LinkedIn](https://linkedin.com/in/harshalpatil-aiml)
